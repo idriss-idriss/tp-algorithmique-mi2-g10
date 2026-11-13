@@ -8,3 +8,9 @@ Ce dépôt contient la résolution de mes exercices de TP.
 **Filière / Niveau :** MI-2 -
 **Groupe :** 10 -
 **Cours :** Algorithmique
+
+## 📂 Organisation
+
+- `exercice-03-prix-ttc/`
+- `exercice-09-pair-ou-impair/`
+- `exercice-14-somme-des-carres/
